@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MollyArt</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href=" assets/styles.css">
 </head>
 <body>
@@ -11,73 +12,82 @@
         <a href="index.html">
             <h1 id="logo">MollyArt</h1>
         </a>
-        <nav>
-            <ul id="navigation">
-                <li>
-                    <a href="singUp.html">SignUp</a>
-                </li>
-                <li>
-                    <a href="gallery.html">Gallery</a>
-                </li>
-                <li>
-                    <a href="index.html">Home</a>
-                </li>
-            </ul>
-        </nav>
+        
+        <input type="checkbox" id="hamburger-menu">
+    <label for="hamburger-menu" class="hamburger">
+      <svg viewBox="0 0 32 32">
+        <path class="line line-top-bottom" d="M27 10 13 10C10.8 10 9 8.2 9 6 9 3.5 10.8 2 13 2 15.2 2 17 3.8 17 6L17 26C17 28.2 18.8 30 21 30 23.2 30 25 28.2 25 26 25 23.8 23.2 22 21 22L7 22"></path>
+        <path class="line" d="M7 16 27 16"></path>
+      </svg>
+    </label>
+    <nav>
+        
+      <ul class="menu">
+        <li> <a href="singUp.html">SignUp</a> </li>
+        <li><a href="gallery.html">Gallery</a> </li>
+        <li> <a href="index.html">Home</a></li>
+      </ul>
+    </nav>
+
     </header>
     <main>
 
         <video autoplay loop muted  class = "video-container" id="myVideo">git staatus
             <source src = "assets/Video comprest.mp4">
         </video>
-        <div>
-            <h2>MollyArt</h2>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias,<br>
-                rerum cumque eaque neque beatae commodi perferendis minus dolores<br>
-                 quam pariatur molestiae earum alias, error rem sit sunt nesciunt illum in? </p> 
-        </div>
-    
 
-          <div class="container">
-      <img src="assets\pexels-daniel-xavier-1239288.jpg" alt="Avatar" class="image" width="250" height="250">
-      <div class="overlay" >
-      <p> moja slika</p>
-      
-      </div>
-    </div>
+<div class="content">
+<h2 class="title"> "Unleash Your Inner Masterpiece: Learn
+    Painting Inspired by Michelangelo".</h2>
+    <br>
 
-
-
-     
-    
-    <div class="container">
-      <img src="assets\pexels-george-dolgikh-1310518.jpg" alt="Avatar" class="image"width="250px" height="250px">
-      <div class="overlay">
-      <p>moja slika</p>
-      
-      </div>
-    </div>
-
-
-
-    
-    
+    <p> Discover your inner masterpiece in our Michelangelo-inspired painting class!<br>
+        Led by skilled instructors, unleash your creativity and refine your skills on canvas.<br>
+        Whether you're a novice or experienced artist, join us for a transformative journey into the world of art.<br>
+        Unlock your potential and create something extraordinary today!
+   </p>
    
-   <div class="container">
-     <img src="assets\pexels-rene-asmussen-25758.jpg" alt="Avatar" class="image"width="250px" height="250px">
-     <div class="overlay">
-     <p>moja slika</p>
-     
-     </div>
-   </div>
+</div>
 
 
+        <section>
 
-</section >
-
-section>
+          <h2>Image Overlay </h2>
+          
+          <div class="container">
+            <img src="assets\pexels-rene-asmussen-25758.jpg" alt="Avatar" class="image" width="250" height="250">
+            <div class="overlay">"Hello, I'm Professor John, and I'm thrilled to guide you on a journey of artistic discovery in our upcoming classes at MollyArt!"</div>
+          </div>
+          
+          <br>
+        
+           <h2>Image Overlay </h2>
+          
+        
+          <div class="container">
+            <img src="assets\pexels-george-dolgikh-1310518.jpg" alt="Avatar" class="image" width="250" height="250">
+            <div class="overlay">"Hello everyone, I'm Ruby, your guide through the wonderful world of art here at MollyArt!"</div>
+          </div>
+          
+          <br>
+        
+          <h2>Image Overlay </h2>
+          
+        
+          <div class="container">
+            <img src="assets\pexels-daniel-xavier-1239288.jpg" alt="Avatar" class="image" width="250" height="250">
+            <div class="overlay">
+              "Hi there, I'm Monika, a student at the art academy, and I can't wait to share my passion for abstract art with you at MollyArt!"</div>
+          </div>
+          
+        
+        
+        </section >
+        
+        
 
     </main>
+
     <footer>
         <ul class="networks">
             <li>
@@ -98,5 +108,6 @@ section>
             </li>
         </ul>
     </footer>
+    <script src="https://kit.fontawesome.com/c7dbda0798.js" crossorigin="anonymous"></script>
 </body>
 </html>
