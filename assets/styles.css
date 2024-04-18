@@ -426,13 +426,11 @@
 
     /*FOOTER*/
     footer {
-        display: grid;
         grid-column: 1/13;
         grid-row: 4/5;
         padding: 10px;
         text-align: center;
         color: #3a3a3a;
-        background-color: #b87d7d;
         border-top: 4px solid #3a3a3a;
         opacity: 1;
 
@@ -444,8 +442,14 @@
   }
 
 
-     /*
+    /* NETWORKS*/
+
+
     .networks {
+        grid-column: 1/13; 
+        grid-row: 5/6;
+        margin: auto;
+        justify-content: space-around;
         text-align: center;
     }
     
@@ -457,9 +461,9 @@
         font-size: 160%;
         margin: 1%;
         padding: 5%;
-        color: #3a3a3a;
+        color:#431313;
     } 
-    */
+  
     /* MEDIA*/
 
 /* For larger to medium screens size from 1200px wide and down */
@@ -478,35 +482,24 @@
 nav{
     grid-column: 1/13;
     grid-row: 3/4;
-}
-
-nav{
-    display:grid;
-    grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-    grid-column-gap: 2px;
-    grid-row-gap: 2px;
-    grid-row: span 4;
-    display:flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    background-color: #b87d7d;
     text-decoration: none;
-    text-transform: capitalize;
     text-align: center;
-    padding: 10px;
-    color:black;
-
-    
-
+    line-height: 2em;
 }
+
 nav a{
     text-decoration: none;
-    color:black;
+    color:rgb(241, 230, 230);
     padding: 10px;
 
 }
 nav a:hover{
-    color: rgb(255, 0, 0);
+    color:rgb(132, 39, 39) ;
 }
 
 }
@@ -527,7 +520,7 @@ nav a:hover{
       }
 
 nav ul li {
-    display: block; 
+    display: inline; 
     width: 100%;
     text-align: center;
     padding: 10px 0;
