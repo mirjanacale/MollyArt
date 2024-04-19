@@ -138,7 +138,6 @@
   }
 
 
-
 /*FORM Style for singup page*/
 
 
@@ -468,8 +467,13 @@
         font-size: 160%;
         margin: 1%;
         padding: 5%;
-        color: #e6690a;
+        color: #130902;
     } 
+    .networks i:hover{
+        color: #e6690a;
+
+
+    }
   
     /* MEDIA*/
 
