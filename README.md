@@ -39,7 +39,7 @@ Beneath the title "Unleash Your Inner Masterpiece: Learn Painting inspired by Mi
 
 ***
 
-## Introduction 
+## Introduction
 
 The MollyArt website is a vibrant digital space designed for both beginning and experienced artists. MollyArt's intuitive design encourages people to let their imaginations run wild by giving them the means to produce, share, and discover a wide range of original works of art.
 
