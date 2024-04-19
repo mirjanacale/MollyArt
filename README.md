@@ -10,7 +10,7 @@ Beneath the title "Unleash Your Inner Masterpiece: Learn Painting inspired by Mi
  ## Table of Contents
  ***
 
- [Introduction](# introduction)
+ [Introduction](#introduction)
 
  [Responsice Mockup](#responsice-mockup) 
 
