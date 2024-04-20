@@ -47,6 +47,7 @@
 
     
  /* hamburger menu */
+
  .hamburger {
     display: block;
     grid-column: 1/12;
@@ -103,9 +104,9 @@
     display: none;
   }
 
-    .hamburger-menu:checked{
-       display: none;
-    }  
+   input[type="checkbox" i] {
+    display: none;
+   }
 
 
   nav{
