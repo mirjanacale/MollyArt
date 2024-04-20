@@ -97,12 +97,17 @@
   
   #hamburger-menu:checked ~ nav {
     display: grid;
+    
   }
   .hamburger  {
     display: none;
   }
 
-   
+    .hamburger-menu:checked{
+       display: none;
+    }  
+
+
   nav{
     grid-column: 1/13;
     grid-row: 3/4;  
@@ -375,6 +380,8 @@
     /*gallery responsive image*/
 
 
+
+
 .row {
     display: -ms-flexbox; 
     display: flex;
@@ -393,11 +400,6 @@
     padding: 0 4px;
   }
     
-  
-  
-  
-  
-  
   
   .column img {
     margin-top: 8px;
@@ -522,6 +524,10 @@ nav a{
 nav a:hover{
     color:rgb(132, 39, 39) ;
 }
+
+
+/* STYLE FOR GALLERY IMG MEDIA */
+
 
 }
 
