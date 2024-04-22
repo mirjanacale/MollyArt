@@ -116,7 +116,7 @@
     background-color: #e6690a;
     border-top: 4px solid #3a3a3a;
     text-align: center;
-    
+    text-decoration: none;
     line-height: 3em;
       }
   
@@ -475,8 +475,6 @@
     } 
     .networks i:hover{
         color: #e6690a;
-
-
     }
   
     /* MEDIA*/
@@ -490,10 +488,11 @@
       .menu {
         display: block;
         
+        
       }
 
       nav ul li {
-        display: inline; 
+        display: initial; 
         width: 100%;
         text-align: center;
         padding: 10px 0;
@@ -507,9 +506,14 @@ nav{
     grid-row: 3/4;
     display: inline;
     justify-content: space-between;
-    align-items: center;
+    border: #010101;
+    border-bottom: 2px solid #010101;
+    border-top: 2px solid #010101;
+    border-left: 2px solid #010101;
+    border-right: 2px solid #010101;
+    font-size: 1.5em;
+    font-family: 'Raleway', sans-serif;
     padding: 5px;
-    padding-bottom: 10px; ;
     background-color:#e6690a;
     text-decoration: none;
     text-align: center;
@@ -518,7 +522,7 @@ nav{
 
 nav a{
     text-decoration: none;
-    color:rgb(241, 230, 230);
+    color:white;
     padding: 10px;
 
 }
