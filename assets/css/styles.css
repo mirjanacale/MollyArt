@@ -145,7 +145,7 @@
   }
 
 
-/*FORM Style for singup page*/
+/*FORM Style for signup page*/
 
 
 .form-box {
@@ -162,6 +162,7 @@
     overflow: hidden;
     border-radius: 16px;
     color: #010101;
+    
   }
   
   .form {
@@ -175,6 +176,7 @@
     padding: 32px 24px 24px;
     gap: 16px;
     text-align: center;
+
   }
   
   /*Form text*/
