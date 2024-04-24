@@ -79,7 +79,7 @@ The gallery page will allow the user to view a display of artwork created by Mol
 
  ## The Sign Up Page 
  ***
-  The user can register with Molly Art on this SingUp website to find out more about the opportunity to attend classes. The user will be required to enter their email address and complete name.
+  The user can register with Molly Art on this signup website to find out more about the opportunity to attend classes. The user will be required to enter their email address and complete name.
 
 
 ## Validator Testing
