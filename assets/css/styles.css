@@ -485,7 +485,7 @@
     /* MEDIA*/
 
 /* For larger to medium screens size from 1200px wide and down */
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1280px) {
 
     .hamburger-menu {
         display: none;
