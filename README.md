@@ -7,38 +7,7 @@ Beneath the title "Unleash Your Inner Masterpiece: Learn Painting inspired by Mi
 ### Live pages -
 
 
- ## Table of Contents
- ***
-
- [Introduction](#introduction)
-
- [Responsice Mockup](#responsice-mockup) 
-
- [Existing Features](#existing-features)
-
- [Navigation Bar](#navigation-bar)
-
- [The landing page image](#the-landing-page-image)
-
- [Meet Teatures](#meet-teatures)
-
-[The Footer](#the-footer) 
-
-[Gallery](#gallery)
-
-[The Sign Up Page](#the-sign-up-page)  
-
-[Validator Testing](#validator-testing)
-
-[Unfixed Bugs](#unfixed-bugs)
-
-[Deployment](#deployment)
-
-[Credits](#credits)
-
-
-***
-
+ 
 ## Introduction
 
 The MollyArt website is a vibrant digital space designed for both beginning and experienced artists. MollyArt's intuitive design encourages people to let their imaginations run wild by giving them the means to produce, share, and discover a wide range of original works of art.
@@ -65,7 +34,7 @@ Users may navigate MollyArt's three pages with ease on any device because to the
 
 A large logo on the landing page invites users to learn more about art studio courses. a headline enticing us to enroll in lessons, a brief synopsis provided on the website, Below, a statement and some pictures introduce the professors to the guests. Details about the academics are superimposed over the images, along with links to MollyArt's social media accounts.
 
- [Return to Table of Contents](#table-of-contents)
+ 
  
 ## The Footer 
 
@@ -112,7 +81,7 @@ The high-quality images that are used to improve the user experience are taken f
 
 
 
- [Return to Table of Contents](#table-of-contents)
+ 
 
 
 
