@@ -30,6 +30,7 @@ Users may navigate MollyArt's three pages with ease on any device because to the
 
 ## The landing page image
 
+
 ### Meet Teatures
 
 A large logo on the landing page invites users to learn more about art studio courses. a headline enticing us to enroll in lessons, a brief synopsis provided on the website, Below, a statement and some pictures introduce the professors to the guests. Details about the academics are superimposed over the images, along with links to MollyArt's social media accounts.
