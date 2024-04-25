@@ -28,6 +28,7 @@ MollyArt is a complete online platform for growing painters seeking to unleash t
 
 Users may navigate MollyArt's three pages with ease on any device because to the navigation bar's unifying design. It makes navigating between parts easier without requiring the use of the browser's back button by displaying the logo and links to the Home, Gallery, and Sign Up pages. Desktop users benefit from a traditional navigation bar that maximizes usability across all platforms, while mobile users may easily access content through a hamburger menu.
 
+
 ## The landing page image
 
 
@@ -41,6 +42,8 @@ A large logo on the landing page invites users to learn more about art studio co
 
 Links to the MollyArt art studio's important social media pages can be found in the footer area.  The links will open in a new tab for the user's convenience in navigation.
 The user benefits from the footer since it motivates them to maintain social media connections.
+
+<img src="readme-img/screenshot1.png">
 
 ## Gallery
 ***
