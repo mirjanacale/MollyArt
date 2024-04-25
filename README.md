@@ -48,11 +48,13 @@ The user benefits from the footer since it motivates them to maintain social med
 ## Gallery
 ***
 The gallery page will allow the user to view a display of artwork created by MollyArt studio students, featuring a variety of styles inspired by the ever-evolving Michaelangelo style.
+<img src="">
 
 
- ## The Sign Up Page 
+ ## The Sign-Up Page 
  ***
   The user can register with Molly Art on this signup website to find out more about the opportunity to attend classes. The user will be required to enter their email address and complete name.
+  <img src="">
 
 
 ## Validator Testing
@@ -60,13 +62,29 @@ The gallery page will allow the user to view a display of artwork created by Mol
 
 ### HTML
 
+The following tools were used for HTML validation:
+- [W3C Markup Validation Service](https://validator.w3.org/)
+
 ### CSS
+
+The following tools were used for CSS validation:
+ - [W3C Markup Validation Service](https://validator.w3.org/)
 
 ## Unfixed Bugs
 ***
 
 ## Deployment
 ***
+
+ -The website was deployed using GitHub. The following were the actions taken to achieve this:  
+
+ -To access the MollyArt_pp1 project repository, log in to your GitHub account.
+
+- Select the Settings option near the top of the page.
+- In the left-hand menu, find and click the Pages button.
+- In the Source section, choose'main' from the drop-down and pick the branch menu.
+- Choose 'root' from the drop-down folder option.
+- Click 'Save', and in a few moments, the project will be made live, with a link displayed at the top of the page.
 
 
 ## Credits
