@@ -8,7 +8,14 @@
 
 
 Beneath the title "Unleash Your Inner Masterpiece: Learn Painting inspired by Michelangelo," the _MollyArt _website functions as a lively center for art enthusiasts. MollyArt pulls visitors in for a voyage of creative discovery and development with its enticing layout and captivating content. This platform offers a rewarding experience in the realm of painting education, regardless of your level of competence as an artist.
+
+
+
+
+
+***
 ### Live pages - https://mirjanacale.github.io/mollyArt/
+***
 
 
  
@@ -76,7 +83,7 @@ Users may navigate MollyArt's three pages with ease on any device because to the
 
 The landing page is the first thing users see when they visit our website. 
 
-<img src="">
+<img src="readme-img/img10.png">
 
 
 ### Meet Teatures
