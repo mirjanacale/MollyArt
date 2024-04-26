@@ -64,6 +64,7 @@ The color scheme for the website is a combination of soft and warm colors. The b
 ## Navigation Bar
 
 Users may navigate MollyArt's three pages with ease on any device because to the navigation bar's unifying design. It makes navigating between parts easier without requiring the use of the browser's back button by displaying the logo and links to the Home, Gallery, and Sign Up pages. Desktop users benefit from a traditional navigation bar that maximizes usability across all platforms, while mobile users may easily access content through a hamburger menu.
+ 
 
 
 ## The landing page image
@@ -78,7 +79,7 @@ The landing page is the first thing users see when they visit our website.
 
 Hovering over the photographs reveals information about our professors.
 
-<img src="">
+<img src="readme-img/img7.png">
  
  
 ## The Footer 
@@ -92,14 +93,14 @@ The user benefits from the footer since it motivates them to maintain social med
 ***
 The gallery page will allow the user to view a display of artwork created by MollyArt studio students, featuring a variety of styles inspired by the ever-evolving Michaelangelo style.
 
-<img src="">
+<img src="readme-img/img8.png">
 
 
  ## The Sign-Up Page 
  ***
   The user can register with Molly Art on this signup website to find out more about the opportunity to attend classes. The user will be required to enter their email address and complete name.
 
-  <img src="">
+  <img src="readme-img/img9.png">
 
 
   ## Testing
