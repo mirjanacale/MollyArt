@@ -30,27 +30,27 @@ Using a mobile-first strategy, this responsive mockup of the Molly Art website e
 <details open>
 <summary>Wireframe - Homepage Desktop & Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](readme-images\wire1.png)
+![homepage wireframe-mobile & desktop](readme-img\wire1.png)
 </details> 
 <details >
 <summary>Wireframe - Gallery page Desktop</summary>  
 
-![homepage wireframe-mobile & desktop](readme-images\wire2.png)
+![homepage wireframe-mobile & desktop](readme-img\wire2.png)
 </details> 
 <details>
 <summary>Wireframe - Gallery page Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](readme-images\wire4.png)
+![homepage wireframe-mobile & desktop](readme-img\wire4.png)
 </details>    
 <details>
 <summary>Wireframe - SignUp page Desktop</summary>  
 
-![homepage wireframe-mobile & desktop](readme-images\wire3.png)
+![homepage wireframe-mobile & desktop](readme-img\wire3.png)
 </details> 
 <details>
 <summary>Wireframe - SignUp page Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](readme-images\wire6.png)
+![homepage wireframe-mobile & desktop](readme-img\wire6.png)
 </details>              
 
 
