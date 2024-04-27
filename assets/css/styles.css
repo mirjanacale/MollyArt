@@ -65,6 +65,7 @@
     border-radius: 30px;
     margin-top: 10px; 
     margin-right: 10px; 
+    margin-bottom:10px ;
     
 
   }
@@ -512,17 +513,18 @@ nav{
     display: inline;
     justify-content: space-between;
     border: #010101;
-    border-bottom: 2px solid #010101;
-    border-top: 2px solid #010101;
-    border-left: 2px solid #010101;
-    border-right: 2px solid #010101;
-    font-size: 1.5em;
+    font-size: medium;
+    word-spacing:20px;
     font-family: 'Raleway', sans-serif;
     padding: 5px;
     background-color:#e6690a;
+    border-radius: 10px; ;
     text-decoration: none;
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     line-height: 2em;
+    
 }
 
 nav a{
