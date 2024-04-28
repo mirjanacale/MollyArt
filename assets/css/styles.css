@@ -486,8 +486,8 @@
   
     /* MEDIA*/
 
-/* For larger to medium screens size from 1200px wide and down */
-@media screen and (max-width: 1280px) {
+/* For larger screens */
+@media screen and (max-width: 1600px) and (min-width: 992px) {
 
     .hamburger-menu {
         display: none;
@@ -544,8 +544,8 @@ nav a:hover{
 
 }
 
-/* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
+/* For medium screens */
+@media screen and (max-width: 1280px) and (min-width: 802px) {
     .hamburger {
         display: none;
       }
@@ -567,8 +567,12 @@ nav ul li a {
 
 
 
-/* For small screen sizes below 800px width */
-@media screen and (max-width: 800px) {
+/* For small screen sizes */
+@media screen and (max-width: 768px) and (min-width: 1024px) {
+
+  #logo {
+    font-size: 50px;
+  }
     
 nav  {
     display: none; /* Hide regular menu on mobile screens */
@@ -588,7 +592,7 @@ nav  {
 
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 320px) and (min-width: 480px) {
     .column {
       -ms-flex: 100%;
       flex: 100%;
