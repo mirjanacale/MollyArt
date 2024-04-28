@@ -415,7 +415,7 @@
     vertical-align: middle; 
     border-radius: 50px;
     box-shadow: 0 0 20px #431313;
-    border: 10px solid;
+    border: 5px solid;
     
     
   }
@@ -488,7 +488,7 @@
     /* MEDIA*/
 
 /* For larger screens */
-@media screen and (max-width: 1600px) and (min-width: 992px) {
+@media screen and (max-width: 1200px) {
 
     .hamburger-menu {
         display: none;
@@ -546,7 +546,7 @@ nav a:hover{
 }
 
 /* For medium screens */
-@media screen and (max-width: 1280px) and (min-width: 802px) {
+@media screen and (max-width:900px) {
     .hamburger {
         display: none;
       }
@@ -569,7 +569,7 @@ nav ul li a {
 
 
 /* For small screen sizes */
-@media screen and (max-width: 768px) and (min-width: 1024px) {
+@media screen and (max-width:600px)  {
 
   #logo {
     font-size: 50px;
@@ -593,7 +593,7 @@ nav  {
 
 }
 
-@media screen and (max-width: 320px) and (min-width: 480px) {
+@media screen and (max-width: 400px) {
     .column {
       -ms-flex: 100%;
       flex: 100%;
