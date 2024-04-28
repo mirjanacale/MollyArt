@@ -116,12 +116,13 @@
   nav{
     grid-column: 1/13;
     grid-row: 3/4;  
+    display: inline;
     padding: 5px;
     background-color: #e6690a;
-    border-top: 4px solid #3a3a3a;
     font-size: 1.5em;
     text-align: center;
     text-decoration: none;
+    list-style: none;
     line-height: 3em;
       }
   
@@ -301,7 +302,7 @@
     letter-spacing: 1px;
     font-family:'Raleway', sans-serif;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1.5em;
     text-align: center;
     background-color:#431313;
     opacity: 0.8;
@@ -412,9 +413,9 @@
   .column img {
     margin-top: 8px;
     vertical-align: middle; 
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border: 5px solid;
+    border-radius: 50px;
+    box-shadow: 0 0 20px #431313;
+    border: 10px solid;
     
     
   }
