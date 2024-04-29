@@ -119,6 +119,8 @@
     display: inline;
     padding: 5px;
     background-color: #e6690a;
+    margin-top: 10px;
+    margin-right: 10px;
     font-size: 1.5em;
     text-align: center;
     text-decoration: none;
@@ -493,12 +495,13 @@
     .hamburger-menu {
         display: none;
       }
+      /*
       .menu {
         display: block;
         
         
       }
-
+       */
       nav ul li {
         display: initial; 
         width: 100%;
