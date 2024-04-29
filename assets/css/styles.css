@@ -112,7 +112,28 @@
     display: none;
    }
 
+   nav{
+    grid-column: 1/13;
+    grid-row: 3/4;
+    display: inline;
+    justify-content: space-between;
+    border: #010101;
+    font-size: medium;
+    word-spacing:20px;
+    font-family: 'Raleway', sans-serif;
+    padding: 5px;
+    background-color:#e6690a;
+    border-radius: 10px; ;
+    text-decoration: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    line-height: 2em;
+    
+}
 
+
+
+/*
   nav{
     grid-column: 1/13;
     grid-row: 3/4;  
@@ -127,7 +148,7 @@
     list-style: none;
     line-height: 3em;
       }
-  
+  */
   
   nav a{
     text-decoration: none;
@@ -525,7 +546,6 @@ nav{
     background-color:#e6690a;
     border-radius: 10px; ;
     text-decoration: none;
-
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     line-height: 2em;
