@@ -495,13 +495,13 @@
     .hamburger-menu {
         display: none;
       }
-      /*
+      
       .menu {
         display: block;
         
         
       }
-       */
+      
       nav ul li {
         display: initial; 
         width: 100%;
