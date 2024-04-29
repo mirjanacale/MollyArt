@@ -490,7 +490,7 @@
     /* MEDIA*/
 
 /* For larger screens */
-@media screen and (max-width: 1600px)  {
+@media screen and (max-width: 1200px)  {
 
     .hamburger-menu {
         display: none;
@@ -549,7 +549,7 @@ nav a:hover{
 }
 
 /* For medium screens */
-@media screen and (max-width:900px) {
+@media screen and (max-width:950px) {
     .hamburger {
         display: none;
       }
@@ -572,7 +572,7 @@ nav ul li a {
 
 
 /* For small screen sizes */
-@media screen and (max-width:600px)  {
+@media screen and (max-width:950px)  {
 
   #logo {
     font-size: 50px;
@@ -596,7 +596,7 @@ nav  {
 
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     .column {
       -ms-flex: 100%;
       flex: 100%;
