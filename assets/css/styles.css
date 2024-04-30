@@ -113,10 +113,8 @@
    }
 
    nav{
-    /*
     grid-column: 1/13;
     grid-row: 3/4;
-    */
     display: inline-flex;
     justify-content: space-between;
     border: #010101;
@@ -543,10 +541,8 @@
 
    
 nav{
-  /*
     grid-column: 1/13;
     grid-row: 3/4;
-    */
     display: inline-flex;
     justify-content: space-between;
     border: #010101;
