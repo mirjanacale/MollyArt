@@ -183,9 +183,9 @@ The following tools were used for HTML validation:
 
 | W3C Link | Screenshot | Notes |
 | -------- | :--------: | -----:|
-| [index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmirjanacale.github.io%2FmollyArt%2Findex.html) | ![screenshot]() | Notes |
-| [gallery](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmirjanacale.github.io%2FmollyArt%2Fgallery.html) | ![screenshot]() | Notes |
-| [signup](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmirjanacale.github.io%2FmollyArt%2Fsignup.html) | ![screenshot]() | Notes |
+| [index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmirjanacale.github.io%2FmollyArt%2Findex.html) | ![screenshot](readme-img/imgvalhome.png) | Notes |
+| [gallery](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmirjanacale.github.io%2FmollyArt%2Fgallery.html) | ![screenshot](readme-img/imgvalgallery.png) | Notes |
+| [signup](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmirjanacale.github.io%2FmollyArt%2Fsignup.html) | ![screenshot](readme-img/imgvalsignup.png) | Notes |
 
 ### CSS
 
