@@ -165,9 +165,9 @@ MollyArt is designed to be compatible with different device sizes.
 
 | Size     | Intedend appearance | Intended responsiveness | Screenshot |
 | -------- | :-----------------: | -----------------------:| :--------: |
-| Mobile   |      Yes            |              Yes        | ![]()      |
-| Tablet   |      Yes            |              Yes        | ![]()      |
-| Desktop  |      Yes            |              Yes        | ![]()      |
+| Mobile   |      Yes            |              Yes        | ![](readme-img/imgmobil.png)      |
+| Tablet   |      Yes            |              Yes        | ![](readme-img/imgtablet.png)      |
+| Desktop  |      Yes            |              Yes        | ![](readme-img/imgdesktop.png)      |
 
 
 
