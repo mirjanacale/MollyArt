@@ -194,7 +194,7 @@ The following tools were used for CSS validation:
 
 | Jigsaw Link | Screenshot | Notes |
 | ----------- | :--------: | -----:|
-| [styles.css](https://jigsaw.w3.org/css-validator/validator?uri=https://mirjanacale.github.io/mollyArt) | ![screenshot]() | Notes |
+| [styles.css](https://jigsaw.w3.org/css-validator/validator?uri=https://mirjanacale.github.io/mollyArt) | ![screenshot](readme-img/imgvalcss.png) | Notes |
 
 
 ## Lighthouse Testing
