@@ -7,7 +7,7 @@
     text-decoration: none;
     list-style: none;
 }
-/*mobil*/
+
     body{
         display:grid;
         height:100vh;
@@ -48,7 +48,7 @@
              }
 
     
- /* hamburger menu */
+ 
 
  .hamburger {
     display: block;
@@ -156,7 +156,7 @@
   }
 
 
-/*FORM Style for signup page*/
+
 
 
 .form-box {
@@ -190,7 +190,6 @@
 
   }
   
-  /*Form text*/
   .title {
     font-weight: bold;
     font-size: 1.6rem;
@@ -206,7 +205,7 @@
   height: 20px;
 }
 
-  /*Inputs box*/
+  
   
   .form-cont {
     overflow: hidden;
@@ -245,7 +244,7 @@
     text-decoration: underline;
   }
   
-  /*Button*/
+  
   .form button {
     background-color:#e6690a;
     color: #fff;
@@ -269,7 +268,7 @@
  
 
 
-/*content home page*/
+
 
 
 .content {
@@ -328,7 +327,7 @@
   
   
   
-       /*RESPONSIVE IMAGES home page*/
+       
 
 
        .container {
@@ -398,7 +397,7 @@
         }
 
     
-    /*gallery responsive image*/
+    
 
 
   
@@ -418,7 +417,7 @@
 
 
 
-       /*BACKGROUND VIDEO*/
+      
        .video-container  {
         position: fixed;
         right: 0;
@@ -434,7 +433,7 @@
 
 
 
-    /*FOOTER*/
+  
     footer {
         grid-column: 1/13;
         grid-row: 4/5;
@@ -452,7 +451,7 @@
   }
 
 
-    /* NETWORKS*/
+    
 
 
     .networks {
@@ -478,9 +477,9 @@
         color: #e6690a;
     }
   
-    /* MEDIA*/
+    
 
-/* For larger screens */
+
 @media screen and (max-width: 1200px)  {
 
     .hamburger-menu {
@@ -539,12 +538,12 @@ nav a:hover{
 }
 
 
-/* STYLE FOR GALLERY IMG MEDIA */
+
 
 
 }
 
-/* For medium screens */
+
 @media screen and (max-width:950px) {
     .hamburger {
         display: none;
@@ -559,14 +558,8 @@ nav ul li a {
     margin: 0 0.5em;
 }
 
-
-
-
 }
 
-
-
-/* For small screen sizes */
 @media screen and (max-width:950px)  {
 
   #logo {
@@ -574,11 +567,11 @@ nav ul li a {
   }
     
 nav  {
-    display: none; /* Hide regular menu on mobile screens */
+    display: none; 
 }
 
 .hamburger {
-    display: block; /* Show hamburger menu on mobile screens */
+    display: block; 
   
 }
 
@@ -586,7 +579,5 @@ nav  {
 
 }
 
-@media screen and (max-width: 600px) {
-   
-  }
+
      

@@ -4,7 +4,7 @@
 (By Mirjana Cale)
 ***
 
-![](readme-img/imgmain.png)
+![amiresponsive](readme-img/imgmain.png)
 
 
 Beneath the title "Unleash Your Inner Masterpiece: Learn Painting inspired by Michelangelo," the _MollyArt _website functions as a lively center for art enthusiasts. MollyArt pulls visitors in for a voyage of creative discovery and development with its enticing layout and captivating content. This platform offers a rewarding experience in the realm of painting education, regardless of your level of competence as an artist.
@@ -14,7 +14,7 @@ Beneath the title "Unleash Your Inner Masterpiece: Learn Painting inspired by Mi
 
 
 ***
-### Live pages - https://mirjanacale.github.io/mollyArt/
+### Live pages - https://mirjanacale.github.io/mollyArt/index.html
 ***
 
 
@@ -83,14 +83,14 @@ Users may navigate MollyArt's three pages with ease on any device because to the
 
 The landing page is the first thing users see when they visit our website. 
 
-![](readme-img/img10.png)
+![home](readme-img/img10.png)
 
 
 ### Meet Teatures
 
 Hovering over the photographs reveals information about our professors.
 
-![](readme-img/img7.png)
+![img](readme-img/img7.png)
  
  
 ## The Footer 
@@ -98,20 +98,20 @@ Hovering over the photographs reveals information about our professors.
 Links to the MollyArt art studio's important social media pages can be found in the footer area.  The links will open in a new tab for the user's convenience in navigation.
 The user benefits from the footer since it motivates them to maintain social media connections.
 
-![](readme-img/screenshot1.png)
+![footer](readme-img/screenshot1.png)
 
 ## Gallery
 ***
 The gallery page will allow the user to view a display of artwork created by MollyArt studio students, featuring a variety of styles inspired by the ever-evolving Michaelangelo style.
 
-![](readme-img/img8.png)
+![gallery](readme-img/img8.png)
 
 
  ## The Sign-Up Page 
  ***
   The user can register with Molly Art on this signup website to find out more about the opportunity to attend classes. The user will be required to enter their email address and complete name.
 
-  ![](readme-img/img9.png)
+  ![singup](readme-img/img9.png)
 
 
   ## Testing
@@ -153,9 +153,9 @@ MollyArt is designed to be compatible with  Google Chrome, Mozilla Firefox, Micr
 
 | Broswer tested | Intedend appearance | Screenshot |
 | -------------- | :-----------------: | :--------: |
-| Chrome         |      Yes            | ![](readme-img/imgcrom.png)      |
-| Firefox        |      Yes            | ![](readme-img/imgfirefox.png)      |
-| Edge           |      Yes            | ![](readme-img/imgedge.png)      |
+| Chrome         |      Yes            | ![crom](readme-img/imgcrom.png)      |
+| Firefox        |      Yes            | ![firefox](readme-img/imgfirefox.png)      |
+| Edge           |      Yes            | ![edge](readme-img/imgedge.png)      |
 
 
 
@@ -165,9 +165,9 @@ MollyArt is designed to be compatible with different device sizes.
 
 | Size     | Intedend appearance | Intended responsiveness | Screenshot |
 | -------- | :-----------------: | -----------------------:| :--------: |
-| Mobile   |      Yes            |              Yes        | ![](readme-img/imgmobil.png)      |
-| Tablet   |      Yes            |              Yes        | ![](readme-img/imgtablet.png)      |
-| Desktop  |      Yes            |              Yes        | ![](readme-img/imgdesktop.png)      |
+| Mobile   |      Yes            |              Yes        | ![mobil](readme-img/imgmobil.png)      |
+| Tablet   |      Yes            |              Yes        | ![tablet](readme-img/imgtablet.png)      |
+| Desktop  |      Yes            |              Yes        | ![desktop](readme-img/imgdesktop.png)      |
 
 
 
@@ -194,7 +194,7 @@ The following tools were used for CSS validation:
 
 | Jigsaw Link | Screenshot | Notes |
 | ----------- | :--------: | -----:|
-| [styles.css](https://jigsaw.w3.org/css-validator/validator?uri=https://mirjanacale.github.io/mollyArt) | ![screenshot](readme-img/imgvalcss.png) | Notes |
+| [styles.css](https://jigsaw.w3.org/css-validator/validator?uri=https://mirjanacale.github.io/mollyArt) | ![screenshot](readme-img/imgvalcss.png) | No errors |
 
 
 ## Lighthouse Testing
