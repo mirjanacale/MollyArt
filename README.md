@@ -203,14 +203,14 @@ The following tools were used for CSS validation:
 Lighthouse testing was performed by Google's open source tool, 
 [Google Chrome DevTools](https://developers.google.com/web/tools/lighthouse). 
 
-![](readme-img/imglihthous.png)
+![Lighthouse](readme-img/imglihthous.png)
 
 
 
 
 ## Unfixed Bugs
 ***
-There are currently no known unfixed bugs in the codebase. If you find any while testing, please report them!
+There are currently no known unfixed bugs in the codebase. Apart from the Video background due to its size which is reduced with [HandBrake](https://handbrake.fr/) , If you find any other while testing, please report them!
 
 
 ## Deployment
