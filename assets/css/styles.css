@@ -10,7 +10,6 @@
 /*mobil*/
     body{
         display:grid;
-        width: 100vw; 
         height:100vh;
         grid-template-columns: repeat(12, 1fr);
         grid-template-rows: repeat(5, 1fr);
@@ -219,6 +218,11 @@
     color: #666;
   }
   
+.icon{
+  width: 20px;
+  height: 20px;
+}
+
   /*Inputs box*/
   
   .form-cont {
@@ -273,6 +277,7 @@
   
   .form button:hover {
     background-color: #eae5e0;
+    color:#431313;
   }
   
   
@@ -381,15 +386,16 @@
           position: absolute; 
           bottom: 0; 
           left: 0;
+          right: 0;
+          width:100%;
           background: rgb(0, 0, 0);
           background: rgba(0, 0, 0, 0.5); /* Black see-through */
           color: #f1f1f1; 
-          width: 100%;
           transition: .5s ease;
           opacity:0;
           color: white;
           font-size: 20px;
-          padding: 20px;
+          padding: 20px 0;
           text-align: center;
         }
         
@@ -414,33 +420,31 @@
 
 
 
-.row {
+/* .row {
     display: -ms-flexbox; 
     display: flex;
     -ms-flex-wrap: wrap; 
     flex-wrap: wrap;
     padding: 0 4px;
-   
+  } */
   
-    
-  }
-  
-  .column {
+  /* .column {
     -ms-flex: 25%; 
     flex: 25%;
     max-width: 50%;
     padding: 0 4px;
-  }
+  } */
     
   
-  .column img {
-    margin-top: 8px;
+  #gallery img {
     vertical-align: middle; 
     border-radius: 50px;
     box-shadow: 0 0 20px #431313;
-    border: 5px solid;
-    
-    
+    padding: 10px;
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    margin: 0.5em;
   }
   
     
@@ -459,7 +463,7 @@
         object-fit: cover;
         z-index: -1;
         pointer-events: none;
-        padding:10px;
+      
     } 
 
 
@@ -536,7 +540,6 @@
         text-align: center;
         padding: 10px 0;
         margin: 0;
-        border-bottom: 1px solid #f4f4f4;
     }
 
    
@@ -587,8 +590,7 @@ nav ul li a {
     text-align: center;
     text-decoration: none;
     padding: 10px 0;
-    margin: 0;
-    border-bottom: 1px solid #f4f4f4;
+    margin: 0 0.5em;
 }
 
 
@@ -615,19 +617,19 @@ nav  {
 }
 
 /* STYLE FOR GALLERY IMG MEDIA */
-.column {
+/* .column {
     -ms-flex: 50%;
     flex: 50%;
     max-width: 50%;
-  }
+  } */
 
 }
 
 @media screen and (max-width: 600px) {
-    .column {
+    /* .column {
       -ms-flex: 100%;
       flex: 100%;
       max-width: 100%;
-    }
+    } */
   }
      

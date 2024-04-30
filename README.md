@@ -4,7 +4,7 @@
 (By Mirjana Cale)
 ***
 
-<img src="readme-img/imgmain.png">
+![](readme-img/imgmain.png)
 
 
 Beneath the title "Unleash Your Inner Masterpiece: Learn Painting inspired by Michelangelo," the _MollyArt _website functions as a lively center for art enthusiasts. MollyArt pulls visitors in for a voyage of creative discovery and development with its enticing layout and captivating content. This platform offers a rewarding experience in the realm of painting education, regardless of your level of competence as an artist.
@@ -23,7 +23,7 @@ Beneath the title "Unleash Your Inner Masterpiece: Learn Painting inspired by Mi
 
 The MollyArt website is a vibrant digital space designed for both beginning and experienced artists. MollyArt's intuitive design encourages people to let their imaginations run wild by giving them the means to produce, share, and discover a wide range of original works of art.
 
-## Responsice Mockup 
+## Responsive Mockup 
 
 Using a mobile-first strategy, this responsive mockup of the Molly Art website ensures smooth screen and device adaptability.
 
@@ -83,14 +83,14 @@ Users may navigate MollyArt's three pages with ease on any device because to the
 
 The landing page is the first thing users see when they visit our website. 
 
-<img src="readme-img/img10.png">
+![](readme-img/img10.png)
 
 
 ### Meet Teatures
 
 Hovering over the photographs reveals information about our professors.
 
-<img src="readme-img/img7.png">
+![](readme-img/img7.png)
  
  
 ## The Footer 
@@ -98,20 +98,20 @@ Hovering over the photographs reveals information about our professors.
 Links to the MollyArt art studio's important social media pages can be found in the footer area.  The links will open in a new tab for the user's convenience in navigation.
 The user benefits from the footer since it motivates them to maintain social media connections.
 
-<img src="readme-img/screenshot1.png">
+![](readme-img/screenshot1.png)
 
 ## Gallery
 ***
 The gallery page will allow the user to view a display of artwork created by MollyArt studio students, featuring a variety of styles inspired by the ever-evolving Michaelangelo style.
 
-<img src="readme-img/img8.png">
+![](readme-img/img8.png)
 
 
  ## The Sign-Up Page 
  ***
   The user can register with Molly Art on this signup website to find out more about the opportunity to attend classes. The user will be required to enter their email address and complete name.
 
-  <img src="readme-img/img9.png">
+  ![](readme-img/img9.png)
 
 
   ## Testing
@@ -146,26 +146,34 @@ I started by creating a wireframe for my website and then I began coding in HTML
 | SignUp |  SignUp form required elements are responsive | Pass |
 | SignUp | Form submit button brings you to a validation page | Pass |
 
+
 ##  Browser  Compatibility
-***
 
 MollyArt is designed to be compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge.
 
+| Broswer tested | Intedend appearance | Screenshot |
+| -------------- | :-----------------: | :--------: |
+| Chrome         |      Yes            | ![]()      |
+| Firefox        |      Yes            | ![]()      |
+| Edge           |      Yes            | ![]()      |
 
 
-| Broswer tested | Intedend appearance | Intended responsiveness|
-| ------- | :-----------------: | ------:|  
-| Chrome   |      Yes            |              Yes     |
-| Firefox  |      Yes            |             Yes           |
-| Edge     |       Yes          |     Yes| 
-***        
+
+##  Responsiveness Testing
+
+MollyArt is designed to be compatible with different device sizes.
+
+| Size     | Intedend appearance | Intended responsiveness | Screenshot |
+| -------- | :-----------------: | -----------------------:| :--------: |
+| Mobile   |      Yes            |              Yes        | ![]()      |
+| Tablet   |      Yes            |              Yes        | ![]()      |
+| Desktop  |      Yes            |              Yes        | ![]()      |
 
 
 
 ## Validator Testing
-***
-The MollyArt website was tested using W3C Markup Validation Service (HTML) and Jigsaw by Google (CSS). 
 
+The MollyArt website was tested using W3C Markup Validation Service (HTML) and Jigsaw by Google (CSS). 
 
 
 ### HTML
@@ -173,10 +181,21 @@ The MollyArt website was tested using W3C Markup Validation Service (HTML) and J
 The following tools were used for HTML validation:
 - [W3C Markup Validation Service](https://validator.w3.org/)
 
+| W3C Link | Screenshot | Notes |
+| -------- | :--------: | -----:|
+| [index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmirjanacale.github.io%2FmollyArt%2Findex.html) | ![screenshot]() | Notes |
+| [gallery](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmirjanacale.github.io%2FmollyArt%2Fgallery.html) | ![screenshot]() | Notes |
+| [signup](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmirjanacale.github.io%2FmollyArt%2Fsignup.html) | ![screenshot]() | Notes |
+
 ### CSS
 
 The following tools were used for CSS validation:
  - [W3C Markup Validation Service](https://jigsaw.w3.org/css-validator/).
+
+| Jigsaw Link | Screenshot | Notes |
+| ----------- | :--------: | -----:|
+| [styles.css](https://jigsaw.w3.org/css-validator/validator?uri=https://mirjanacale.github.io/mollyArt) | ![screenshot]() | Notes |
+
 
 ## Lighthouse Testing
 ***
@@ -184,9 +203,7 @@ The following tools were used for CSS validation:
 Lighthouse testing was performed by Google's open source tool, 
 [Google Chrome DevTools](https://developers.google.com/web/tools/lighthouse). 
 
-<img src="" alt="Lighthouse Score">
-
-
+![]()
 
 
 
@@ -197,17 +214,51 @@ There are currently no known unfixed bugs in the codebase. If you find any while
 
 
 ## Deployment
-***
 
- -The website was deployed using GitHub. The following were the actions taken to achieve this:  
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
- -To access the MollyArt_pp1 project repository, log in to your GitHub account.
+- In the [GitHub repository](https://github.com/mirjanacale/mollyArt), navigate to the Settings tab 
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-- Select the Settings option near the top of the page.
-- In the left-hand menu, find and click the Pages button.
-- In the Source section, choose'main' from the drop-down and pick the branch menu.
-- Choose 'root' from the drop-down folder option.
-- Click 'Save', and in a few moments, the project will be made live, with a link displayed at the top of the page.
+The live link can be found [here](https://mirjanacale.github.io/mollyArt/)
+
+### Local Deployment
+
+This project can be cloned or forked in order to make a local copy on your own system.
+
+#### Cloning
+
+You can clone the repository by following these steps:
+
+1. Go to the [GitHub repository](https://github.com/mirjanacale/mollyArt) 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash or Terminal
+5. Change the current working directory to the one where you want the cloned directory
+6. In your IDE Terminal, type the following command to clone my repository:
+	- `git clone https://github.com/mirjanacale/mollyArt.git`
+7. Press Enter to create your local clone.
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mirjanacale/mollyArt)
+
+Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
+A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
+
+#### Forking
+
+By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
+You can fork this repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/mirjanacale/mollyArt)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+
+### Local VS Deployment
+
+There are no major differences between the local (Gitpod) version and the deployed (GitHub Pages) version that I'm aware of.
 
 
 ## Credits
@@ -222,97 +273,3 @@ The text for the Home page was written by me, specifically to engage and inform 
 ***
 
 The high-quality images that are used to improve the user experience are taken from _Pixabay_and are shown on the home and sign-up pages. Pictures for the gallery page are taken from [Pinterest](https://ie.pinterest.com/), offering a wide range of motivational pieces of art. [HandBrake](https://handbrake.fr/) and Microsoft ClipBar are used to optimize the backdrop video, which is downloaded from [YouTube](https://www.youtube.com/), so that it loads quickly and plays smoothly. Techniques for picture reduction are also used to maximize performance throughout the website.
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
