@@ -203,7 +203,7 @@ The following tools were used for CSS validation:
 Lighthouse testing was performed by Google's open source tool, 
 [Google Chrome DevTools](https://developers.google.com/web/tools/lighthouse). 
 
-![]()
+![](readme-img/imglihthous.png)
 
 
 
