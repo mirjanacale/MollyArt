@@ -113,9 +113,11 @@
    }
 
    nav{
+    /*
     grid-column: 1/13;
     grid-row: 3/4;
-    display: inline;
+    */
+    display: inline-flex;
     justify-content: space-between;
     border: #010101;
     font-size: medium;
@@ -518,7 +520,14 @@
       }
       
       .menu {
-        display: block;
+        display: inline-flex;
+        justify-content: space-around;
+        align-items: center;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        
+        
         
         
       }
@@ -534,9 +543,11 @@
 
    
 nav{
+  /*
     grid-column: 1/13;
     grid-row: 3/4;
-    display: inline;
+    */
+    display: inline-flex;
     justify-content: space-between;
     border: #010101;
     font-size: medium;
