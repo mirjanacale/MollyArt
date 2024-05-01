@@ -102,9 +102,11 @@ The user benefits from the footer since it motivates them to maintain social med
 
 ## Gallery
 ***
-The gallery page will allow the user to view a display of artwork created by MollyArt studio students, featuring a variety of styles inspired by the ever-evolving Michaelangelo style.
+The gallery page will allow the user to view a display of artwork created by MollyArt studio students. When a user clicks on one of the images, [Fancybox](https://fancyapps.com/fancybox/getting-started/) will display the corresponding full-size image in a modal window with the caption provided in the data-caption attribute,   featuring a variety of styles inspired by the ever-evolving Michaelangelo style.
+***
+                                                           
+![gallery-slide](readme-img/imggalleryslide.png) || ![gallery](readme-img/img8.png)
 
-![gallery](readme-img/img8.png)
 
 
  ## The Sign-Up Page 
@@ -266,10 +268,19 @@ There are no major differences between the local (Gitpod) version and the deploy
 
 ### Content
 ***
-The text for the Home page was written by me, specifically to engage and inform visitors about MollyArt's offers and mission. The Sign Up page has content from Torturous [Future in Tech](https://ictskillnet.ie/courses/), which provides educational and captivating writing to lead users through the registration process. The icons in the bottom were derived from Font Awesome, [Love and Running](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecomm) Site, and they enhance the website's visual appeal and functionality.
+The text for the Home page was written by me, specifically to engage and inform visitors about MollyArt's offers and mission. The Sign Up page has content from Torturous [Future in Tech](https://ictskillnet.ie/courses/), which provides educational and captivating writing to lead users through the registration process.
+[Fancybox](https://fancyapps.com/fancybox/getting-started/) is used in JavaScript library to create modal windows, overlays, for displaying images.
+The icons in the bottom were derived from Font Awesome, [Love and Running](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecomm) Site, and they enhance the website's visual appeal and functionality.
+Amy Richardson SCOOP project [scoops](https://amylour.github.io/scoops_pp1/).
+
 
 
 ### Media
 ***
 
 The high-quality images that are used to improve the user experience are taken from _Pixabay_and are shown on the home and sign-up pages. Pictures for the gallery page are taken from [Pinterest](https://ie.pinterest.com/), offering a wide range of motivational pieces of art. [HandBrake](https://handbrake.fr/) and Microsoft ClipBar are used to optimize the backdrop video, which is downloaded from [YouTube](https://www.youtube.com/), so that it loads quickly and plays smoothly. Techniques for picture reduction are also used to maximize performance throughout the website.
+
+***
+### Acknowledgements
+
+ I would like to acknowledge my Code Institute mentors, Alan Bushel, Tim Nelson, Amy Richardson for thers guidance and encouragement on this project.
