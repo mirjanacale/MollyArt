@@ -67,8 +67,9 @@ Using a mobile-first strategy, this responsive mockup of the Molly Art website e
 
 ## Color
 ***
-The color scheme for the project is a combination of  _#431313_ dark reddish-brown color and _#e6690a_ bright orange color. 
+The color scheme for the project is a combination of  _#431313_ dark reddish-brown color and _#e6690a_ bright orange color through [colors.co](https://coolors.co/431313-e6690a).
 The color scheme for the website is a combination of soft and warm colors. The background is video.
+![colors.co](readme-img/imgcoolors .png)
 
 
 
@@ -205,9 +206,17 @@ The following tools were used for CSS validation:
 Lighthouse testing was performed by Google's open source tool, 
 [Google Chrome DevTools](https://developers.google.com/web/tools/lighthouse). 
 
+- index.html 
+
 ![Lighthouse](readme-img/imglihthous.png)
 
+- gallery.html
 
+![Lighthouse](readme-img/imlgallerylight.png)
+
+- signup.html
+
+![Lighthouse](readme-img/imgsignuplight.png)
 
 
 ## Unfixed Bugs
